@@ -1,2 +1,3 @@
+# Serverport to not need enabling cors
 server:
   port: 5500
