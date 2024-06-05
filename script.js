@@ -1,3 +1,5 @@
+
+// Function to handle the submit of the form itself
 async function handleSubmit() {
   const inputData = document.getElementById("inputData").value;
   console.log(inputData);
